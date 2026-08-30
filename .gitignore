@@ -1,0 +1,14 @@
+# Build artifacts
+parser
+output
+output.c
+lex.raw_yy.c
+parser.tab.c
+parser.tab.h
+*.o
+*.obj
+
+# Editor / OS files
+.DS_Store
+Thumbs.db
+.vscode/
